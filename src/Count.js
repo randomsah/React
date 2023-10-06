@@ -6,6 +6,7 @@ export default function counter (){
     return(
         <>
         <div>Counter</div>
+        <h1>HI</h1>
         <button onClick={Inc}>Click Here
         </button></>
     )
